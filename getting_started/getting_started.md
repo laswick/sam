@@ -82,7 +82,7 @@ Type `monitor at91sam4 gpnvm set 1` to program the `boot-from-flash` switch.
 
 Type `monitor flash write_image erase "getting_started.axf" 0 elf` to program the image into the board.
 
-Type 'x/100x 0` to display 100 bytes of memory.  You should see a _signature_ word of ` 0xabcdef55 ` at address  ` 0x00000100`.
+Type `x/100x 0` to display 100 bytes of memory.  You should see a _signature_ word of `0xabcdef55` at address  `0x00000100`.
 
 Type `layout src` to view the source and assembly listings.
 
