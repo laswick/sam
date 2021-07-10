@@ -1,4 +1,16 @@
-sam
-===
 
-A complete bare metal bring up of the ARM Cortex M4F, and comprehensive real-time driver library for the Atmel SAM4E. 
+# README
+
+## Atmel SAM4E / ARM Cortex M4F Project
+
+Rob Laswick  
+April 22 2013  
+[www.laswick.net](http://www.laswick.net)
+
+---
+
+> **Project Status: Inactive**
+
+> Despite achieving a good getting started guide and initial bare metal bring up, this project was unable to start.  This repository will remain available but is no longer maintained.
+
+---
